@@ -1,16 +1,14 @@
-### Hi there 👋
+# junhoyeo
+Contributing to the world little by little, dreaming of someone who develops human civilization
 
-<!--
-**junhoyeo/junhoyeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✨ **React, React Native**
+- ♥️ **Hooks**, TypeScript
+- 🎯 Modern & clean code, Well-structured architecture, Interesting hacks
+- 🔍 Swift, Reactive Programming
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:octocat: Github | https://github.com/junhoyeo |
+------------- | ----- |
+:rocket: RocketPunch | https://www.rocketpunch.com/@jyeo |
+:thumbsup: Facebook | https://www.facebook.com/juno3704/ |
+:camera: Instagram | https://instagram.com/jyeo_official |
+:star: Resume(WIP) | https://trendy-resume.now.sh/ |
