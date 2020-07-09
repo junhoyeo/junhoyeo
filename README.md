@@ -1,10 +1,10 @@
 # junhoyeo
 Contributing to the world little by little, dreaming of someone who develops human civilization
 
-- ✨ **React, React Native**
-- ♥️ **Hooks**, TypeScript
+- ✨ **React, React Native**, Next.js
+- ♥️ **Hooks**, TypeScript, Functional programming
 - 🎯 Modern & clean code, Well-structured architecture, Interesting hacks
-- 🔍 Swift, Reactive Programming
+- 🔍 Swift, Reactive programming
 
 :octocat: Github | https://github.com/junhoyeo |
 ------------- | ----- |
