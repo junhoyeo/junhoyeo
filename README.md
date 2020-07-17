@@ -2,6 +2,8 @@
 ![Typed-with-TypeScript](https://camo.githubusercontent.com/21132e0838961fbecb75077042aa9b15bc0bf6f9/68747470733a2f2f62616467656e2e6e65742f62616467652f4275696c74253230576974682f547970655363726970742f626c7565)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunhoyeo%2Fjunhoyeo)](https://hits.seeyoufarm.com)
 
+> 공부 많이 시키는 기숙사 학교 가서 책은 안 펴고 하루 종일 코딩만 하고 있는 여준호입니다.
+
 Contributing to the world little by little, dreaming of someone who develops human civilization
 
 - ✨ **React, React Native**, Next.js
