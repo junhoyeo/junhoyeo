@@ -9,12 +9,11 @@
 </div>
 <br />
 
-<ul align="center">
-	<li>✨ <strong>React, React Native</strong>, Next.js</li>
-	<li>♥️ <strong>Hooks</strong>, TypeScript, Functional programming</li>
-	<li>🎯 Modern & clean code, Well-structured architecture, Interesting hacks</li>
-	<li>🔍 Swift, Reactive programming</li>
-</ul>
+<div align="center" style="text-align:center">
+	✨ <strong>React, React Native</strong>, Next.js<br />
+	♥️ <strong>Hooks</strong>, TypeScript, Functional programming<br />
+	🔍 Swift, Reactive programming
+</div>
 
 <br />
 <div align="center" style="text-align:center">
