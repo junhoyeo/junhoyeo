@@ -3,6 +3,7 @@
 		<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@900" rel="stylesheet" />
 		<div xmlns="http://www.w3.org/1999/xhtml">
       <style>
+				@import(https://fonts.googleapis.com/css2?family=Montserrat:wght@900);
 				@keyframes float {
 					0% {
 						box-shadow: 2px 2px 20px rgba(0, 26, 99, 0.25);
@@ -61,7 +62,9 @@
 					position: relative;
 				}
 				.container * {
-					font-family: 'Montserrat';
+					font-family: 'Montserrat', system-ui, -apple-system,
+						'Segoe UI', Roboto, Helvetica, Arial, sans-serif,
+						'Apple Color Emoji', 'Segoe UI Emoji';
 					font-weight: 900;
 				}
 				h1 {
