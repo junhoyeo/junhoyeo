@@ -8,6 +8,15 @@
 	</a>
 </div>
 <br />
+
+<ul align="center">
+	<li>✨ <strong>React, React Native</strong>, Next.js</li>
+	<li>♥️ <strong>Hooks</strong>, TypeScript, Functional programming</li>
+	<li>🎯 Modern & clean code, Well-structured architecture, Interesting hacks</li>
+	<li>🔍 Swift, Reactive programming</li>
+</ul>
+
+<br />
 <div align="center" style="text-align:center">
 	<a href="https://trendy-resume.now.sh">
 		<img src="./icons/developer.png" width="64" height="64">
