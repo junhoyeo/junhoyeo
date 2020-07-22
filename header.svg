@@ -42,6 +42,8 @@
 					display: flex;
 					flex-direction: column;
 					width: 100%;
+					height: 450px;
+					width: 800px;
 				}
 				.container {
 					display: flex;
