@@ -1,0 +1,71 @@
+<svg fill="none" viewBox="0 0 800 450" width="800" height="450" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * {
+					box-sizing: border-box;
+					font-family: system-ui, -apple-system, 'Segoe UI',
+						Roboto, Helvetica, Arial, sans-serif,
+						'Apple Color Emoji', 'Segoe UI Emoji';
+				}
+        div.heart-container {
+          display: flex;
+          width: 100%;
+          justify-content: center;
+          align-items: center;
+        }
+        p, p * {
+          font-family: 'Montserrat';
+          font-weight: 900;
+          color: rgba(0, 0, 0, 0.75);
+        }
+        p strong {
+          color: #FF7371;
+        }
+      </style>
+      <div class="heart-container">
+        <svg class="heart" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 1197 1197">
+          <defs>
+            <linearGradient id="linear-gradient" x1="0.458" y1="0.041" x2="0.332" y2="0.872" gradientUnits="objectBoundingBox">
+              <stop offset="0" stop-color="#fff"/>
+              <stop offset="1" stop-color="#fbfbfb"/>
+            </linearGradient>
+            <filter id="타원_1" x="0" y="0" width="1197" height="1197" filterUnits="userSpaceOnUse">
+              <feOffset dx="-60" dy="60" input="SourceAlpha"/>
+              <feGaussianBlur stdDeviation="49.5" result="blur"/>
+              <feFlood flood-color="#e6e6e6" flood-opacity="0.494"/>
+              <feComposite operator="in" in2="blur"/>
+              <feComposite in="SourceGraphic"/>
+            </filter>
+            <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="0.877" gradientUnits="objectBoundingBox">
+              <stop offset="0" stop-color="#ffcabd"/>
+              <stop offset="0.241" stop-color="#ffbfb7"/>
+              <stop offset="1" stop-color="#ff7371"/>
+            </linearGradient>
+            <filter id="합치기_2" x="294" y="262" width="708" height="658.124" filterUnits="userSpaceOnUse">
+              <feOffset dx="-10" dy="16" input="SourceAlpha"/>
+              <feGaussianBlur stdDeviation="49.5" result="blur-2"/>
+              <feFlood flood-color="red" flood-opacity="0.169"/>
+              <feComposite operator="in" in2="blur-2"/>
+              <feComposite in="SourceGraphic"/>
+            </filter>
+          </defs>
+          <g id="그룹_1" data-name="그룹 1" transform="translate(573.5 126.5)">
+            <g transform="matrix(1, 0, 0, 1, -573.5, -126.5)" filter="url(#타원_1)">
+              <circle id="타원_1-2" data-name="타원 1" cx="450" cy="450" r="450" transform="translate(208.5 88.5)" fill="url(#linear-gradient)"/>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, -573.5, -126.5)" filter="url(#합치기_2)">
+              <path id="합치기_2-2" data-name="합치기 2" d="M205.39,360.815l-.39.309s-.064-.261-.186-.768C190.408,348.876,19.458,211.526,4.761,146.779A114.488,114.488,0,0,1,0,114C0,51.04,50.809,0,113.485,0A113.183,113.183,0,0,1,205.5,47.261,113.182,113.182,0,0,1,297.515,0C360.191,0,411,51.04,411,114a114.273,114.273,0,0,1-6.319,37.6,78.932,78.932,0,0,1-3.26,8.309A113.941,113.941,0,0,1,389.341,181c-46.806,69.719-171.18,169.637-183.374,179.355-.122.507-.186.768-.186.768Z" transform="translate(452.5 394.5)" fill="url(#linear-gradient-2)"/>
+            </g>
+          </g>
+        </svg>
+        <p>
+          <strong>With Love for...</strong><br />
+          Modern / clean code,<br />
+          Well-structured architecture,<br />
+          Interesting hacks
+        </p>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
