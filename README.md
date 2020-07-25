@@ -1,11 +1,11 @@
 <div align="center">
 	<br />
 	<a href="https://github.com/junhoyeo">
-		<img src="./header.png" />
+		<img src="https://github.com/junhoyeo/junhoyeo/raw/master/header.png" />
 	</a>
 	<br />
 	<a href="https://github.com/junhoyeo?tab=repositories">
-		<img src="./heart.png" height="100" />
+		<img src="https://github.com/junhoyeo/junhoyeo/raw/master/heart.png" width="50%" />
 	</a>
 </div>
 <br />
