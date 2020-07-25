@@ -1,10 +1,11 @@
 <div align="center">
 	<br />
 	<a href="https://github.com/junhoyeo">
-		<img src="https://raw.githubusercontent.com/junhoyeo/junhoyeo/master/header.svg" />
+		<img src="./header.png" />
 	</a>
+	<br />
 	<a href="https://github.com/junhoyeo?tab=repositories">
-		<img src="https://raw.githubusercontent.com/junhoyeo/junhoyeo/master/heart.svg" />
+		<img src="./heart.png" height="100" />
 	</a>
 </div>
 <br />
