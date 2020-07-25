@@ -3,8 +3,7 @@
 	<a href="https://github.com/junhoyeo">
 		<img src="./header.png" />
 	</a>
-	<br />
-	<a href="https://github.com/junhoyeo?tab=repositories">
+	<a href="https://github.com/junhoyeo?tab=repositories" style="margin-top: 10px;display: block;object-fit:contain;">
 		<img src="./heart.png" height="100" />
 	</a>
 </div>
