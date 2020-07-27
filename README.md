@@ -1,4 +1,6 @@
-<img alt="Hello, I'm Junho Yeo" src="https://github.com/junhoyeo/junhoyeo/raw/master/images/title.png" width="612" />
+<a href="https://github.com/junhoyeo">
+	<img alt="Hello, I'm Junho Yeo" src="https://github.com/junhoyeo/junhoyeo/raw/master/images/title.png" width="612" />
+</a>
 
 > 공부 많이 시키는 기숙사 학교 가서 책은 안 펴고 **하루 종일** 코드만 짜고 있는 여준호입니다.
 
