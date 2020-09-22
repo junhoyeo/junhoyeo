@@ -5,7 +5,7 @@
 > 공부 많이 시키는 기숙사 학교 가서 책은 안 펴고 **하루 종일** 코드만 짜고 있는 여준호입니다.<br />
 > I'm trying to **code every second** in my boring, exam-oriented dorm high school, without opening a single textbook.<br />
 
-![github-stats](https://github-readme-stats.vercel.app/api?username=junhoyeo&theme=algolia)
+![github-stats](https://github-readme-stats.vercel.app/api?username=junhoyeo&count_private=true&theme=algolia)
 
 <div align="center" style="text-align:center">
 	✨ Usually works as a FE developer with <strong>React, React Native</strong>, creating beautiful UI/UX.<br />	
