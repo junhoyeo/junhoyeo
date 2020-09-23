@@ -3,7 +3,8 @@
 </a>
 
 > 공부 많이 시키는 기숙사 학교 가서 책은 안 펴고 **하루 종일** 코드만 짜고 있는 여준호입니다.<br />
-> FE developer who's trying to **code every second** in my boring, exam-oriented dorm high school, without opening a single textbook.<br />
+> FE developer who's trying to **code every second** in his boring, exam-oriented dorm high school<br />
+> -without opening a single textbook.<br />
 
 **UPDATE: I'm in progress to finally drop out school 🤭**
 
