@@ -6,8 +6,6 @@
 > FE developer who's trying to **code every second** in his boring, exam-oriented dorm high school-<br />
 > -without opening a single textbook.<br />
 
-**UPDATE: I'm in progress to finally drop out school 🤭**
-
 ![github-stats](https://github-readme-stats.vercel.app/api?username=junhoyeo&count_private=true&theme=algolia)
 
 <div align="center" style="text-align:center">
