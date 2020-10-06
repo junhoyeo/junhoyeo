@@ -34,3 +34,7 @@
 		<img src="https://raw.githubusercontent.com/junhoyeo/junhoyeo/master/icons/instagram.png" width="64" height="64">
 	</a>
 </div>
+
+<br />
+
+![github-trophies](https://github-profile-trophy.vercel.app/?username=junhoyeo&theme=nord&column=5)
