@@ -29,10 +29,10 @@
 	<a href="https://www.rocketpunch.com/@jyeo">
 		<img src="https://raw.githubusercontent.com/junhoyeo/junhoyeo/master/icons/rocketpunch.png" width="64" height="64">
 	</a>
-	<a href="https://www.facebook.com/juno3704">
+	<a href="https://www.facebook.com/ijustdothethingsilike">
 		<img src="https://raw.githubusercontent.com/junhoyeo/junhoyeo/master/icons/facebook.png" width="64" height="64">
 	</a>
-	<a href="https://www.instagram.com/jyeo_official">
+	<a href="https://www.instagram.com/_junhoyeo">
 		<img src="https://raw.githubusercontent.com/junhoyeo/junhoyeo/master/icons/instagram.png" width="64" height="64">
 	</a>
 </div>
