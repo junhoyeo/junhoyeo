@@ -2,8 +2,8 @@
 	<img alt="Hello, I'm Junho Yeo" src="https://github.com/junhoyeo/junhoyeo/raw/master/images/title.png" width="612" />
 </a>
 
-> 공부 많이 시키는 기숙사 학교 가서 책은 안 펴고 **하루 종일** 코드만 짜다 자퇴한 여준호입니다.<br />
-> **FE developer** who dropped out of his boring, exam-oriented dorm high school after trying to **code all day**.
+> 아이디어가 생기면 **바로 무언가 시작할 수 있는 사람**<br />
+> Someone who can **start something right away**, when they have an idea
 
 ![github-stats](https://github-readme-stats.vercel.app/api?username=junhoyeo&count_private=true&theme=algolia)
 
