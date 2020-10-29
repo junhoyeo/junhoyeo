@@ -7,8 +7,6 @@
 
 ![github-stats](https://github-readme-stats.vercel.app/api?username=junhoyeo&count_private=true&theme=algolia)
 
-![github-trophies](https://github-profile-trophy.vercel.app/?username=junhoyeo&theme=nord&column=7)
-
 <div align="center" style="text-align:center">
 	✨ Usually works as a FE developer with <strong>React, React Native</strong>, creating beautiful UI/UX.<br />	
 	♥️ I love <strong>Hooks</strong>, <strong>TypeScript</strong>, and Functional Programming<br />	
