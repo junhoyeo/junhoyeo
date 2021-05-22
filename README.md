@@ -13,7 +13,7 @@
 	🎯 Aiming for code that <strong>reads like text.</strong><br />
 	🏴‍ Have a lot of interest in <strong>interesting hacks</strong> and <strong>projects with funny ideas</strong>.<br />	
 	🎧 Enjoys listening to <strong>music</strong> for concentration.<br />
-	👀 Recently into <strong>SwiftUI</strong><br />
+	👀 Recently into <strong>Testing</strong><br />
 </div>
 
 <br />
