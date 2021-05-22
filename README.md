@@ -1,5 +1,5 @@
 <a href="https://github.com/junhoyeo">
-	<img alt="Hello, I'm Junho Yeo" src="https://github.com/junhoyeo/junhoyeo/raw/master/images/title.png?v=2" width="612" />
+	<img alt="Hello, I'm Junho Yeo" src="https://github.com/junhoyeo/junhoyeo/raw/main/images/title.png?v=2" width="612" />
 </a>
 
 > 아이디어가 생기면 **바로 무언가 시작할 수 있는 사람**<br />
@@ -19,18 +19,18 @@
 <br />
 <div align="center" style="text-align:center">
 	<a href="https://trendy-resume.now.sh">
-		<img src="https://raw.githubusercontent.com/junhoyeo/junhoyeo/master/icons/developer.png" width="64" height="64">
+		<img src="https://raw.githubusercontent.com/junhoyeo/junhoyeo/main/icons/developer.png" width="64" height="64">
 	</a>
 	<a href="https://github.com/junhoyeo">
-		<img src="https://raw.githubusercontent.com/junhoyeo/junhoyeo/master/icons/github.png" width="64" height="64">
+		<img src="https://raw.githubusercontent.com/junhoyeo/junhoyeo/main/icons/github.png" width="64" height="64">
 	</a>
 	<a href="https://www.rocketpunch.com/@jyeo">
-		<img src="https://raw.githubusercontent.com/junhoyeo/junhoyeo/master/icons/rocketpunch.png" width="64" height="64">
+		<img src="https://raw.githubusercontent.com/junhoyeo/junhoyeo/main/icons/rocketpunch.png" width="64" height="64">
 	</a>
 	<a href="https://www.facebook.com/ijustdothethingsilike">
-		<img src="https://raw.githubusercontent.com/junhoyeo/junhoyeo/master/icons/facebook.png" width="64" height="64">
+		<img src="https://raw.githubusercontent.com/junhoyeo/junhoyeo/main/icons/facebook.png" width="64" height="64">
 	</a>
 	<a href="https://www.instagram.com/_junhoyeo">
-		<img src="https://raw.githubusercontent.com/junhoyeo/junhoyeo/master/icons/instagram.png" width="64" height="64">
+		<img src="https://raw.githubusercontent.com/junhoyeo/junhoyeo/main/icons/instagram.png" width="64" height="64">
 	</a>
 </div>
