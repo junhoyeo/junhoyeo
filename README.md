@@ -10,7 +10,7 @@
 <div align="center" style="text-align:center">
 	✨ Usually works as a FE developer with <strong>React, React Native</strong>, creating beautiful UI/UX<br />	
 	♥️ I love <strong>TypeScript</strong> & <strong>Testing</strong><br />	
-	🎯 Aiming for code that <strong>reads like text.</strong><br />
+	🎯 Aiming for code that <strong>reads like text</strong><br />
 	🏴‍ Have a lot of interest in <strong>interesting hacks</strong> and <strong>projects with funny ideas</strong><br />
 </div>
 
