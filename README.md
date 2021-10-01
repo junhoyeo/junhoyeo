@@ -10,7 +10,7 @@
 <div align="center" style="text-align:center">
 	✨ FE developer for <strong>React ecosystem</strong>, building beautiful UI/UX<br />	
 	🎯 Aiming for code that <strong>reads like text</strong><br />
-	🏴‍ On to <strong>Interesting hacks</strong>, <strong>Blockchain</strong>
+	🏴‍ On to <strong>Interesting hacks</strong> & <strong>Blockchain</strong>
 </div>
 
 <br />
