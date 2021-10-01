@@ -8,10 +8,9 @@
 ![github-stats](https://github-readme-stats.vercel.app/api?username=junhoyeo&count_private=true&theme=algolia)
 
 <div align="center" style="text-align:center">
-	✨ Usually works as a FE developer with <strong>React, React Native</strong>, creating beautiful UI/UX<br />	
-	♥️ I love <strong>TypeScript</strong> & <strong>Testing</strong><br />	
+	✨ FE developer for <strong>React ecosystem</strong>, building beautiful UI/UX<br />	
 	🎯 Aiming for code that <strong>reads like text</strong><br />
-	🏴‍ Have a lot of interest in <strong>interesting hacks</strong> and <strong>projects with funny ideas</strong><br />
+	🏴‍ On to <strong>Interesting hacks</strong>, <strong>Blockchain</strong>
 </div>
 
 <br />
