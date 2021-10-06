@@ -2,7 +2,7 @@
 	<img alt="Hello, I'm Junho Yeo" src="https://github.com/junhoyeo/junhoyeo/raw/main/images/title.png?v=2" width="612" />
 </a>
 
-18-yo Software Enginner 🦄⚡️
+**18-yo Software Enginner [@pocketlesson](https://github.com/pocketlesson) 🦄⚡️**
 
 > 아이디어가 생기면 **바로 무언가 시작할 수 있는 사람**<br />
 > Someone who can **start something right away**, when they have an idea
