@@ -4,7 +4,6 @@
 
 **18-yo Software Enginner [@pocketlesson](https://github.com/pocketlesson) 🦄⚡️**
 
-> 아이디어가 생기면 **바로 무언가 시작할 수 있는 사람**<br />
 > Someone who can **start something right away**, when they have an idea
 
 ![github-stats](https://github-readme-stats.vercel.app/api?username=junhoyeo&count_private=true&theme=algolia)
