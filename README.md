@@ -2,7 +2,7 @@
 	<img alt="Hello, I'm Junho Yeo" src="https://github.com/junhoyeo/junhoyeo/raw/main/images/title.png?v=2" width="612" />
 </a>
 
-**Software Enginner 🦄⚡️** [@Manythings-DAO](https://github.com/manythings-dao)
+**Software Enginner 🦄⚡️** at [@Manythings-DAO](https://github.com/manythings-dao) (Alphaworks)
 
 > Someone who can **start something right away**, when they have an idea
 
