@@ -20,7 +20,7 @@
 		<img src="https://raw.githubusercontent.com/junhoyeo/junhoyeo/main/icons/github.png" width="64" height="64">
 	</a>
 	<a href="https://twitter.com/_junhoyeo">
-		<img src="https://raw.githubusercontent.com/junhoyeo/junhoyeo/main/icons/twitter.png" width="64" height="64">
+		<img src="https://raw.githubusercontent.com/junhoyeo/junhoyeo/main/icons/twitter-round.png" width="64" height="64">
 	</a>
 	<a href="https://www.facebook.com/ijustdothethingsilike">
 		<img src="https://raw.githubusercontent.com/junhoyeo/junhoyeo/main/icons/facebook.png" width="64" height="64">
