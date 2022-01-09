@@ -22,9 +22,6 @@
 	<a href="https://twitter.com/_junhoyeo">
 		<img src="https://raw.githubusercontent.com/junhoyeo/junhoyeo/main/icons/twitter-round.png" width="64" height="64">
 	</a>
-	<a href="https://www.facebook.com/ijustdothethingsilike">
-		<img src="https://raw.githubusercontent.com/junhoyeo/junhoyeo/main/icons/facebook.png" width="64" height="64">
-	</a>
 	<a href="https://www.instagram.com/_junhoyeo">
 		<img src="https://raw.githubusercontent.com/junhoyeo/junhoyeo/main/icons/instagram.png" width="64" height="64">
 	</a>
