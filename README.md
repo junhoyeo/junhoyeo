@@ -3,7 +3,7 @@
 </a>
 
 <a href="http://junho.io" title="Website">
-	<img alt="LOOK FORWARD MY 2023" src="https://github.com/junhoyeo/junhoyeo/raw/main/images/2023.png?v=2" />
+	<img alt="LOOK FORWARD MY 2023" src="https://github.com/junhoyeo/junhoyeo/blob/37a36a4d22520da8cc66f1da53279c70dfe4a31d/images/2023.png?raw=true" />
 </a>
 
 > Sometimes a designer and dreamer, I just like to build—or hack things
