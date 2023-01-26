@@ -8,4 +8,4 @@
 - ⚡️ Someone who can **start something right away**, when they have an idea.
 - 🏴‍ Exploring **web3**.
 
-Now working on something that's actually missing in this world…
+Now working on a series of projects that will change how we work. ⚒️
