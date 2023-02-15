@@ -6,4 +6,4 @@
 
 - 🦄 **Anything for Creation.** Preparing the infrastructure—insight, followers, and capital—for a bigger dream.
 - ⚡️ Someone who can **start something right away**, when they have an idea.
-- 🏴‍  Navigating the crypto world to make it borderless and accessible to everyone, allowing them to freely ship their ideas without any restrictions.
+- 🏴‍ Empowering individuals to ship their ideas boundlessly in a world without restrictions.
