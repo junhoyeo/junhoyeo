@@ -2,6 +2,8 @@
   <img alt="Hello, I'm Junho Yeo" src="https://github.com/junhoyeo/junhoyeo/raw/main/images/title-2.png" width="612" />
 </a>
 
+<a href="https://www.threads.net/@_junhoyeo"><img src="https://thread-count.vercel.app/thread-count/_junhoyeo" alt="I'm on Threads."></a>
+
 <a href="http://junho.io/about">
   <img alt="My Work" src="https://github.com/junhoyeo/junhoyeo/raw/main/images/preview.jpg?v=2" />
 </a>
