@@ -12,6 +12,3 @@
 
 - 🦄 **Anything for Creation.** Preparing the infrastructure—insight, followers, and capital—for a bigger dream.
 - ⚡️ Someone who can **start something right away**, when they have an idea.
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/vmfunc/vmfunc/blob/main/ransom.png?raw=true');]{x0000}$}
